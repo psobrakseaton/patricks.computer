@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Patrick Sobrak-Seaton</title>
+      <link>https://patricks.computer</link>
+      <description>Last 10 notes on Patrick Sobrak-Seaton</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Douglas Design System</title>
+    <link>https://patricks.computer/Douglas-Design-System</link>
+    <guid>https://patricks.computer/Douglas-Design-System</guid>
+    <description>A tokenized and accessible design system for UP42.</description>
+    <pubDate>Sat, 14 Oct 2023 15:31:48 GMT</pubDate>
+  </item><item>
+    <title>Liberate Science</title>
+    <link>https://patricks.computer/Liberate-Science</link>
+    <guid>https://patricks.computer/Liberate-Science</guid>
+    <description>With funding from the Shuttleworth Foundation and support from Mozilla, Liberate Science seeks to provide an alternative to traditional scientific publishing through the collective power of open science.</description>
+    <pubDate>Sat, 14 Oct 2023 15:31:48 GMT</pubDate>
+  </item><item>
+    <title>UP42</title>
+    <link>https://patricks.computer/UP42</link>
+    <guid>https://patricks.computer/UP42</guid>
+    <description>UP42 is a geospatial developer platform and marketplace for Earth observation data and analytics. I am leading the creation and adoption of the Douglas Design System, a state-of- the-art, tokenized and accessible design system and component library to empower and scale design and development across our organization.</description>
+    <pubDate>Sat, 14 Oct 2023 15:31:48 GMT</pubDate>
+  </item><item>
+    <title>Welcome</title>
+    <link>https://patricks.computer/</link>
+    <guid>https://patricks.computer/</guid>
+    <description> My name’s Patrick Sobrak-Seaton. I am a product designer from the California Bay Area, but Berlin based since 2017. Currently I am helping UP42 change the way we see the world through Earth observation data and analytics.</description>
+    <pubDate>Sat, 14 Oct 2023 15:31:48 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
